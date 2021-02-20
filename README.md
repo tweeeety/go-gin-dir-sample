@@ -1,1 +1,1 @@
-# go-gin-gae-sample
+# go-gin-dir-sample
