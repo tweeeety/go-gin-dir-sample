@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"github.com/tweeeety/go-gin-gae-sample/service"
+	"github.com/tweeeety/go-gin-dir-sample/service"
 )
 
 func TodoIndex(ctx *gin.Context) {

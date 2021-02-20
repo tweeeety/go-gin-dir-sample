@@ -3,7 +3,7 @@ package service
 import (
 	"time"
 
-	"github.com/tweeeety/go-gin-gae-sample/model"
+	"github.com/tweeeety/go-gin-dir-sample/model"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )

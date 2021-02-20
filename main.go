@@ -9,8 +9,8 @@ import (
 	"google.golang.org/appengine"
 
 	"github.com/gin-gonic/gin"
-	"github.com/tweeeety/go-gin-gae-sample/controller"
-	"github.com/tweeeety/go-gin-gae-sample/middleware"
+	"github.com/tweeeety/go-gin-dir-sample/controller"
+	"github.com/tweeeety/go-gin-dir-sample/middleware"
 )
 
 func init() {
